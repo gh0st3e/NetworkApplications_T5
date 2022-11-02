@@ -1,0 +1,3 @@
+﻿  ClientNP_CNP.cpp
+D:\Study\ПиБСП\Lab_6MS\ClientNP_CNP\ClientNP_CNP\ClientNP_CNP.cpp(18,9): warning C4101: dwWrite: неиспользованная локальная переменная
+  ClientNP_CNP.vcxproj -> D:\Study\ПиБСП\Lab_6MS\ClientNP_CNP\x64\Debug\ClientNP_CNP.exe

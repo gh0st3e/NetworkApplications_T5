@@ -1,0 +1,3 @@
+﻿  ClientNP_Transact.cpp
+D:\Study\ПиБСП\Lab_6MS\ClientNP_Transact\ClientNP_Transact\ClientNP_Transact.cpp(30,9): warning C4101: dwWrite: неиспользованная локальная переменная
+  ClientNP_Transact.vcxproj -> D:\Study\ПиБСП\Lab_6MS\ClientNP_Transact\x64\Debug\ClientNP_Transact.exe

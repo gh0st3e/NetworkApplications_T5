@@ -1,0 +1,4 @@
+﻿  SeverNP.cpp
+D:\Study\ПиБСП\Lab_6MS\SeverNP\SeverNP\SeverNP.cpp(44,62): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\Study\ПиБСП\Lab_6MS\SeverNP\SeverNP\SeverNP.cpp(47,56): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  SeverNP.vcxproj -> D:\Study\ПиБСП\Lab_6MS\SeverNP\x64\Debug\SeverNP.exe
